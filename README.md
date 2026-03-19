@@ -27,10 +27,10 @@ The network serves **98 devices** across both schools in a realistic educational
 - **Simulation Tool**: Cisco Packet Tracer
 
 ## Screenshots
-![Full Network Topology](topology-full.png)
-![Core Switches & VLANs](core-switches.png)
-![Router & NAT](router-nat.png)
-![Wireless Coverage](wireless.png)
+![Fschool building A](school-building-A.png)
+![school-building-B](school-building-B.png)
+![Main-Wiring-Closet](Main-Wiring-Closet.png)
+![Wiring-Closet](Main-Wiring-Closets.png)
 
 ## Full Documentation
 - Complete Cisco IOS configurations for all devices
@@ -40,11 +40,6 @@ The network serves **98 devices** across both schools in a realistic educational
 
 **Full technical report, configurations, and .pkt file are available in the repository.**
 
-## How to Run
-1. Download the `.pkt` file
-2. Open with Cisco Packet Tracer (v8.2+)
-3. Test connectivity, DHCP, WiFi, and Internet access between both schools
-
 ---
 
-**Made with ❤️ for Cybersecurity Specialization**
+**Made with ❤️**
