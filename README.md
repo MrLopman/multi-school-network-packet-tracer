@@ -2,7 +2,7 @@
 
 **Cisco Packet Tracer Project**  
 **WE School El-Minya – Cybersecurity Department**  
-**April 2025** | [Network_Configuration_Report (Docx)](Network_Configuration_Report.Dock) | [Download .pkt File](School_Network.pkt)
+**April 2025** | [Network_Configuration_Report (pdf)](Network_Configuration_Report.pdf) | [Download .pkt File](School_Network.pkt)
 
 ## Project Overview
 Designed and implemented a complete **hierarchical enterprise network** connecting **two separate schools** (School A & School B) via fiber optic uplinks.  
