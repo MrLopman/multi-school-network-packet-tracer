@@ -27,10 +27,10 @@ The network serves **98 devices** across both schools in a realistic educational
 - **Simulation Tool**: Cisco Packet Tracer
 
 ## Screenshots
-![Fschool building A](school-building-A.png)
+![Fschool-building-A](school-building-A.png)
 ![school-building-B](school-building-B.png)
 ![Main-Wiring-Closet](Main-Wiring-Closet.png)
-![Wiring-Closet](Main-Wiring-Closets.png)
+![Wiring-Closet](Wiring-Closet.png)
 
 ## Full Documentation
 - Complete Cisco IOS configurations for all devices
